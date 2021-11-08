@@ -9,6 +9,7 @@ dist/
 
 # Dot env file
 .env
+.env.web
 
 # Compiled Java class files
 *.class

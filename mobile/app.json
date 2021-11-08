@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "share-message-app",
+    "scheme": "share-message-app",
     "slug": "share-message-app",
     "version": "1.0.0",
     "orientation": "portrait",
